@@ -20,4 +20,4 @@ The purpose of this portfolio is to present my technical skills and projects pro
 
 # Live Website
 
-[Click Here to View My Portfolio] (https://SamhavyaSubhanvitha.github.io/my-portfolio/)
+[Click Here to View My Portfolio] ()https://SamhavyaSubhanvitha.github.io/my-portfolio/
